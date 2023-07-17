@@ -1,0 +1,35 @@
+body{
+    background:linear-gradient(180deg,aqua 0%,rgba(0, 255, 255, 0.188));
+    background-repeat: no-repeat;
+    height: 120vh;
+    color:brown;
+    flex-direction: column;
+    text-align: center;
+    margin: 0%;
+
+}
+h1{
+    font-size: 52px;
+    margin-top: 5%;
+}
+#button{
+    width: 170px;
+    height: 60px;
+    background-color:deeppink;
+    font-size: 38px;
+    text-align: center;
+
+    
+}
+#jokeContent,#joke{
+    font-size: 32px;
+    line-height: 40px;
+}
+#jokeContent,#image{
+    margin-top: 2%;
+    border-radius: 20px;
+}
+h2{
+    font-size: 24px;
+    line-height: 34px;
+}
